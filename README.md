@@ -1,6 +1,6 @@
-Antony Medina García
+
 -About Me:
-Hello! I'm Antony Medina García, a passionate 22-year-old student pursuing a bachelor's degree in Electrical Engineering with a specialization in Computer Science at the University of Costa Rica. I am excited about continuous learning and always eager to delve deeper into the fields of engineering and software development.
+Hello! I'm Antony, a passionate 22-year-old student pursuing a bachelor's degree in Electrical Engineering with a specialization in Computer Science at the University of Costa Rica. I am excited about continuous learning and always eager to delve deeper into the fields of engineering and software development.
 
 -Education:
 Currently, I am advancing in my bachelor's degree in Electrical Engineering with an emphasis on computers at the University of Costa Rica, where I am gaining valuable insights into both the theoretical and practical aspects of the field.
@@ -23,8 +23,15 @@ Community Engagement: Contributing to open-source projects and participating in 
 Let's Connect:
 I'm always excited to connect with individuals who share similar interests. Feel free to reach out to me via:
 
+
 Email: antony.medinagarcia24@gmail.com || antony.medinagarcia@ucr.ac.cr
+
+
 LinkedIn: https://www.linkedin.com/in/anthony-medina-1b156b1aa/
+
+
 Instagram: https://www.instagram.com/anthonym_.g/
+
+
 Get in Touch:
 Whether you're looking to collaborate on a project, discuss the latest advancements in technology, or simply chat about shared interests, don't hesitate to drop me a message. Let's embark on this journey of discovery and innovation together!
