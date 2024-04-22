@@ -1,37 +1,51 @@
 
--About Me:
-Hello! I'm Antony, a passionate 22-year-old student pursuing a bachelor's degree in Electrical Engineering with a specialization in Computer Science at the University of Costa Rica. I am excited about continuous learning and always eager to delve deeper into the fields of engineering and software development.
+# Hi there! 👋 I'm Antony Medina
 
--Education:
-Currently, I am advancing in my bachelor's degree in Electrical Engineering with an emphasis on computers at the University of Costa Rica, where I am gaining valuable insights into both the theoretical and practical aspects of the field.
+## A Passionate Backend Developer | Electrical Engineering Student | Costa Rica 🇨🇷
 
--Skills:
-Here are some of the tools and technologies I proficiently handle:
+I'm a dedicated backend developer with a keen interest in software engineering and continuous learning. Currently pursuing a bachelor's degree in Electrical Engineering with a specialization in Computer Science at the University of Costa Rica.
 
--Java: Crafting robust applications with object-oriented programming.
--Spring: Leveraging the power of the Spring Framework to build scalable and efficient software solutions.
--MySQL: Designing and managing relational databases to store and retrieve data effectively.
--Git & GitHub: Utilizing version control to collaborate seamlessly and manage code repositories efficiently.
--JavaScript: Enhancing user experiences through dynamic and interactive web applications.
--Python: Developing versatile and efficient solutions across various domains.
-Interests:
-In addition to my academic pursuits, I am deeply fascinated by:
+## About Me
+I am a 22-year-old student passionate about continuous learning, technology and advancement, every day I seek improvement in all areas of my life, also in my interpersonal relationships, I combine my university life with sports and my passion for software development to be able to project myself into life.
 
-Exploring New Technologies: Keeping an eye on emerging trends and technologies in the ever-evolving landscape of engineering and software development.
-Personal Projects: Engaging in projects to apply and expand my skills, whether it's building a new web application or experimenting with hardware projects.
-Community Engagement: Contributing to open-source projects and participating in tech communities to share knowledge and collaborate with like-minded enthusiasts.
-Let's Connect:
-I'm always excited to connect with individuals who share similar interests. Feel free to reach out to me via:
+## Education 📚 
+- Pursuing a bachelor's degree in Electrical Engineering with an emphasis on computers at the University of Costa Rica.
+- Self-taught software development student focused on backend.
+
+## Skills
+### Technologies:
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
+</div>
+
+## Interests
+In addition to my academic pursuits, I'm deeply fascinated by:
+- Exploring New Technologies: Keeping up with emerging trends and technologies.
+- Personal Projects: Applying and expanding my skills through various projects.
+- Community Engagement: Contributing to open-source projects and collaborating with like-minded enthusiasts.
+
+## Let's Connect
+I'm always open to connect and collaborate! Feel free to reach out to me via:
 
 
-Email: antony.medinagarcia24@gmail.com || antony.medinagarcia@ucr.ac.cr
-
-
-LinkedIn: https://www.linkedin.com/in/anthony-medina-1b156b1aa/
-
-
-Instagram: https://www.instagram.com/anthonym_.g/
-
-
-Get in Touch:
-Whether you're looking to collaborate on a project, discuss the latest advancements in technology, or simply chat about shared interests, don't hesitate to drop me a message. Let's embark on this journey of discovery and innovation together!
+  <a href="https://www.linkedin.com/in/anthony-medina-1b156b1aa/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
+<a href="https://www.instagram.com/anthonym_.g/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
+                    
