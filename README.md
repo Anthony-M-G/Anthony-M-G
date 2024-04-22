@@ -1,9 +1,9 @@
 
 # Hi there! 👋 I'm Antony Medina
 
-## A Passionate Backend Developer | Electrical Engineering Student | Costa Rica 🇨🇷
+## Backend Developer | Electrical Engineering Student | Costa Rica 🇨🇷
 
-I'm a dedicated backend developer with a keen interest in software engineering and continuous learning. Currently pursuing a bachelor's degree in Electrical Engineering with a specialization in Computer Science at the University of Costa Rica.
+I'm a dedicated backend developer with a keen interest in software engineering and continuous learning. Currently pursuing a bachelor's degree in Electrical Engineeringat the University of Costa Rica.
 
 ## About Me
 I am a 22-year-old student passionate about continuous learning, technology and advancement, every day I seek improvement in all areas of my life, also in my interpersonal relationships, I combine my university life with sports and my passion for software development to be able to project myself into life.
@@ -13,7 +13,7 @@ I am a 22-year-old student passionate about continuous learning, technology and 
 - Self-taught software development student focused on backend.
 
 ## Skills
-### Technologies:
+###  Principal Technologies:
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     <img width="12" />
@@ -31,10 +31,14 @@ I am a 22-year-old student passionate about continuous learning, technology and 
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
 </div>
+<h3>Code editors and other tools:</h3>
+    <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+    </div>
 
 ## Interests
 In addition to my academic pursuits, I'm deeply fascinated by:
