@@ -1,63 +1,57 @@
-
 # Hi there! 👋 I'm Antony Medina
 
-## Backend Developer | Electrical Engineering Student | Costa Rica 🇨🇷
+## SAP ABAP Developer | Backend Engineer | Electrical Engineering Student | Costa Rica 🇨🇷
 
-I'm a dedicated backend developer with a keen interest in software engineering and continuous learning. Currently pursuing a bachelor's degree in Electrical Engineeringat the University of Costa Rica.
+Backend-oriented developer currently working with **SAP ABAP**, focused on data reporting, business logic, and enterprise systems. I combine SAP experience with strong backend foundations and an engineering mindset.
+
+---
 
 ## About Me
-I am a 22-year-old student passionate about continuous learning, technology and advancement, every day I seek improvement in all areas of my life, also in my interpersonal relationships, I combine my university life with sports and my passion for software development to be able to project myself into life.
 
-## Education 📚 
-- Pursuing a bachelor's degree in Electrical Engineering with an emphasis on computers at the University of Costa Rica.
-- Self-taught software development student focused on backend.
+I work mainly with **SAP ECC and S/4HANA**, developing and enhancing ABAP reports, data mappings, and stock/measurement logic. I’m especially comfortable understanding existing requirements and improving current solutions.
 
-## Skills
-###  Principal Technologies:
+Currently, I’m **training in the field of Data Science**, strengthening my skills in data analysis, data engineering concepts, and analytics.
+
+You can also find **projects related to Data Structures and Algorithms in C++ and Python** in my repositories.
+
+---
+
+## Education 📚
+
+* **B.Sc. in Electrical Engineering (Computers & Networks emphasis)** – Universidad de Costa Rica *(in progress)*
+* **Data Science Specialization Program** – Instituto Tecnológico de Costa Rica *(in progress)*
+
+
+---
+
+## Technical Skills
+
+### Core Technologies
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" height="40" alt="abap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
 </div>
 
-###
-<h3>Code editors and other tools:</h3>
-  <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
+---
 
-###
+## Let’s Connect 🤝
 
-## Interests
-In addition to my academic pursuits, I'm deeply fascinated by:
-- Exploring New Technologies: Keeping up with emerging trends and technologies.
-- Personal Projects: Applying and expanding my skills through various projects.
-- Community Engagement: Contributing to open-source projects and collaborating with like-minded enthusiasts.
+<a href="https://www.linkedin.com/in/anthony-medina-1b156b1aa/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+</a>
+<a href="https://www.instagram.com/anthonym_.g/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
+</a>
 
-## Let's Connect
-I'm always open to connect and collaborate! Feel free to reach out to me via:
-
-
-  <a href="https://www.linkedin.com/in/anthony-medina-1b156b1aa/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
-<a href="https://www.instagram.com/anthonym_.g/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
-                    
